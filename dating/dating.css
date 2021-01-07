@@ -1,0 +1,139 @@
+body{
+    background:url("http://blog.hostbaby.com/backgrounds/bg_wreaths.jpg");
+    font-family: 'Pacifico', cursive;
+}
+
+#welcome{
+    font-size: 90px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.box{
+    border-style: solid;
+    border-radius: 2em;
+    text-align: center;    
+}
+
+#form1{
+    text-align: center;
+    
+}
+
+div h3{
+    text-decoration: underline;
+    text-align: center;
+    font-weight: 600;
+}
+
+#checkbox1{
+    display: inline-block;
+    line-height: 25px;
+    text-align: left;
+    float: right;
+    margin-right: 42.5%;
+    margin-top: 1%;
+    border: solid;
+    border-radius: 0.75em;
+}
+#checkbox1 :nth-child(1) {
+    font-weight: 900;
+    text-decoration: underline;
+}
+.clear{
+    clear: both;
+}
+
+#textbox{
+    resize: none;
+    height: 200px;
+    width: 300px;
+    overflow: hidden; 
+}
+
+#textbt{
+    display: block;
+}
+
+#sub{
+    border-radius: 2em;
+    background-color: #42424200;
+  
+}
+
+#gender{
+    font-size: 1.25em;
+}
+
+#namebox{
+    border: solid;
+    border-radius: 1em;
+    display: inline;
+    float: left;
+    margin-left: 35%;
+}
+
+#date1 {
+    position: absolute;
+    left: 55%;
+}
+#date1 > label{
+   font-weight: 900;
+}
+
+.dlocation{
+   position: absolute;
+   top: 42%;
+   left: 55%; 
+}
+.dlocation>:nth-child(1){
+    font-weight: 900;
+    text-decoration: underline;
+}
+#daughter{
+    position: absolute;
+    left: 35%;
+    top: 87%;
+}
+#daughter>:nth-child(1){
+    display: block;
+    font-weight: 900;
+}
+.education{
+    position: absolute;
+    left: 55%;
+    top: 50% ;
+}
+#edubox:nth-child(1){
+    font-weight: 900;
+    text-decoration: underline;
+}
+#statement>label{
+    
+    font-weight: 900;
+    text-decoration: underline;
+    text-align: center;
+}
+#statement{
+    position: absolute;
+    top:120%;
+    left: 37%;
+}
+#ref>label{
+    font-weight: 900;
+    text-decoration: underline;
+
+}
+#ref{
+    position: absolute;
+    top: 130%;
+    left: 35%;
+}
+#submit1{
+    position: absolute;
+    top: 134%;
+    left: 55%;
+    
+
+}
+

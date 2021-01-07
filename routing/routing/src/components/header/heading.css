@@ -1,0 +1,26 @@
+.head{
+    background-color: #350a6d;
+    color: white;
+    padding-bottom:50px ;
+   
+    
+}
+.link{
+    display: inline;
+    float: left;
+    color: white;
+    margin-left: 10px;
+    margin-right:10px ;
+    position: relative;
+    left: 30%;
+    
+    
+}
+.comp1{
+    color: white;
+    position: relative;
+    right: 3.5%;
+}
+link{
+    cursor: pointer;
+}
